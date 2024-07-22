@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="192" title="Whatsapp-Bot-Multi-Device-Profile" src="https://github.com/spike.jpg"/>
+  <img width="192" title="Whatsapp-Bot-Multi-Device-Profile" src="https://github.com/kysage1/spike-md/spike.jpg"/>
 
 </div>
 

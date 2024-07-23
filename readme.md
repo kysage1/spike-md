@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="192" title="Whatsapp-Bot-Multi-Device-Profile" src="https://github.com/kysage1/spike-md/spike.jpg"/>
+  <img width="192" title="Whatsapp-Bot-Multi-Device-Profile" src="https://avatars.githubusercontent.com/u/117613748?v=4"/>
 
 </div>
 
@@ -17,8 +17,8 @@
     <img title="Kysage" src="https://img.shields.io/badge/AUTHOR-KYSAGE-orange.svg?style=for-the-badge&logo=github"></a>
 </div>
 <div align="center">
-  <a href="https://www.codefactor.io/repository/github/kysage1/spike-md/overview/master">
-    <img title="Whatsapp-Bot-Multi-Device-CodeFactor" src="https://img.shields.io/codefactor/grade/github/kyssge1/whatsapp-bot/master?color=blue&label=CodeFactor&style=flat-square">
+  <a href="https://www.codefactor.io/repository/github/kysage1/spike-md/overview/main">
+    <img title="Whatsapp-Bot-Multi-Device-CodeFactor" src="https://img.shields.io/codefactor/grade/github/kysage1/whatsapp-bot/main?color=blue&label=CodeFactor&style=flat-square">
   </a>
   <a href="https://github.com/kysage/spike-md/issues">
     <img title="Whatsapp-Bot-Multi-Device-Issues" src="https://img.shields.io/github/issues-raw/kysage1/spike-md?label=Issues&color=%23ff9aa2&style=flat-square" />
@@ -28,10 +28,10 @@
   <a href="https://github.com/kysage1/followers">
     <img title="Whatsapp-Bot-Multi-Device-Followers" src="https://img.shields.io/github/followers/kysage1?label=Folls&color=%23ff9aa2&style=flat-square">
   </a>
-  <a href="https://github.com/kysageq1/soike-/stargazers/">
+  <a href="https://github.com/kysage1/soike-/stargazers/">
     <img title="Stars" src="https://img.shields.io/github/stars/kysage1/spike-md?label=Stars&color=%23ffb7b2&style=flat-square">
   </a>
-  <a href="https://github.com/kysage1/spikey/network/members">
+  <a href="https://github.com/kysage1/spike-md/network/members">
     <img title="spike-md-Multi-Device-Forks" src="https://img.shields.io/github/forks/kysage1/spike-md?label=Forks&color=%23ffdac1&style=flat-square">
   </a>
   <a href="https://github.com/kysage1/spike-md/watchers">
